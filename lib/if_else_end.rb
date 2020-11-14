@@ -6,5 +6,6 @@ b = 3
 if a.even?
   puts "Even!"
 else
-  a + 1 puts "Odd!"
+  a + 1
+  puts "Odd!"
 end
