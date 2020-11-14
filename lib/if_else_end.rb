@@ -1,6 +1,10 @@
 # Write your solution here
-numbers = ["22","33"]
 
-if numbers.any?
+a = 2
+b = 3
+
+if a.even?
   puts "Even!"
+else
+  puts "Odd!"
 end
