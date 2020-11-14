@@ -2,4 +2,5 @@
 numbers = ["22","33"]
 
 if numbers.any?
+  puts "Even!"
 end
