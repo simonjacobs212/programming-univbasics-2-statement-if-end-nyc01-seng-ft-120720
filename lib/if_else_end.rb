@@ -1,9 +1,9 @@
 # Write your solution here
 
-a = 2
-b = 3
+current_time = Time.now
+current_time = current_time.to_i
 
-if a.even?
+if current_time.even?
   puts "Even!"
 else
   a + 1
